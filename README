@@ -1,0 +1,5 @@
+A simple vvvv patch for syncing csv files from sonic visualizer (audio information) with the audio track and triggering visuals in realtime by information on the track's notes, pitch and volume.
+
+The track has been analyzed with heavy use of the fantastic sonic visualizer and its vamp plugins.
+
+Developed in a one day workshop with Calum Morton (Warp Records) and Studio NAND during Resonate '12.
